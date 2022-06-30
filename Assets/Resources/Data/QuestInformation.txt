@@ -1,0 +1,5 @@
+ID,Name,NeedLevel,RewardItemTable,RewardItemCount,RewardGold,RewardEXP,IsClear,Info,Condition,CurrentConditionCount,ConditionCount,IsPlayerHave,DidClear
+1,KillKnight,3,1,1,1000,200,False,KillKnight,Knight,0,5,False,False
+2,KillEnemy,1,2,1,1500,500,False,KillEnemy,Enemy,0,10,False,False
+3,KillBoss,5,3,1,1500,700,False,KillBoss,MechanicalGolem,0,1,False,False
+4,ClearStage,3,1,1,1200,300,False,ClearStage,Stage,1,5,False,False

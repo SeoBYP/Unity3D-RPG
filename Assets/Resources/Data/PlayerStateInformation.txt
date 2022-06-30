@@ -1,0 +1,10 @@
+ID,SlotName,ItemType,ItemTableID,UniqueID
+0,Head,Head,0,0
+1,LeftHand,Hand,0,0
+2,RightHand,Weapon,1,1
+3,UpperBody,UpperBody,0,0
+4,LowerBody,LowerBody,0,0
+5,Shoes,Shoes,0,0
+6,Accessories1,Accessories,0,0
+7,Accessories2,Accessories,0,0
+8,Accessories3,Accessories,0,0

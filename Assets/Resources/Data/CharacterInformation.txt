@@ -1,0 +1,7 @@
+_ID,_Name,_Level,_HP,_MaxHP,_Attack,_Critical,_Defence,_Speed,_JumpPower,_Exp,_MaxExp,_Gold,_EnemyEXP,_Mp,_MaxMp
+1,UnityChan,1,200,200,20,10,20,4,5,0,100,10000,0,150,150
+2,MechanicalGolem,1,200,200,40,15,35,2.0,0,0,0,0,300,0,0
+3,Knight,1,100,100,25,5,10,3.0,0,0,0,0,100,0,0
+4,Slayer,1,200,200,40,7,15,5.0,0,0,0,0,200,0,0
+5,DarkElf,1,150,150,30,5,15,4.0,0,0,0,0,125,0,0
+6,Wizard,1,200,200,35,9,20,5.0,0,0,0,0,175,0,0
