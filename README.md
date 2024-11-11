@@ -8,7 +8,7 @@
 
 **프로젝트 기간**: 2021년 9월 - 2022년 3월  
 **플랫폼**: PC
-**엔진**: Unity  
+**엔진**: Unity
 **도구**: Git, C#
 
 [게임 플레이 영상](https://www.youtube.com/watch?v=lf2wziqD6Kw&t=5s)
